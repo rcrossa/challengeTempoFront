@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -20,7 +20,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Docker
+## 📋 Requirements
+
+To use this project, you need to have the following installed:
+
+- Node.js
+- npm, yarn, pnpm, or bun
+- Docker (optional, for containerized deployment)
+- Docker Compose (optional, for multi-container deployment)
+
+## 🐳 Docker
 
 To run the project using Docker, follow these steps:
 
@@ -37,3 +46,21 @@ To run the project using Docker, follow these steps:
     ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 🛠️ Docker Compose
+
+To run the project using Docker Compose, follow these steps:
+
+1. Ensure the backend service is running.
+
+2. Start the services using Docker Compose:
+
+    ```bash
+    docker-compose up
+    ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Icons and Colors
+
+If your project requires specific icons and colors, make sure to include them in your project setup. You can use libraries like [Font Awesome](https://fontawesome.com/) for icons and [Tailwind CSS](https://tailwindcss.com/) for color management.
