@@ -1,3 +1,11 @@
+## 📜 Disclaimer
+
+This project is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+## 🔒 Usage Authorization
+
+Use of this project is permitted only with explicit authorization from the authors. Unauthorized use, distribution, or modification of this project is strictly prohibited.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## 🚀 Getting Started
