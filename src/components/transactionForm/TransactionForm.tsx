@@ -63,7 +63,7 @@ const TransactionForm: React.FC<TransactionFormProps> = ({ form, errors, isEditi
         {errors.form && <div className="error error-form">{errors.form}</div>}
       </div>
       <div className="form-submit">
-        <button type="submit">{isEditing ? 'Edit' : 'Add'} Transaction</button>
+        <button type="submit">{isEditing ? 'Save' : 'Add'} Transaction</button>
       </div>
     </form>
   );
